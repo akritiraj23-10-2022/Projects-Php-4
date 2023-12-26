@@ -1,0 +1,24 @@
+
+Things which are remaining to be completed on Gagangiri site:
+
+***********************************************************************************
+
+1. Sitemap - in admin panel and site also
+
+2. Credits - in admin panel and site also
+
+3. Audio - plugins
+
+4. Complaints and Suggestions form (plugin)
+
+5. Encryting URL
+
+6. Calender Page is not XHTML Validated
+
+7. Ending the sessions when user admin clicks LOGOUT in th Shopping cart sections in Admin Sections
+
+8. look of registration page is different from the look of forgot password page and bill ship form
+
+9. On billing shipping form provide an option to duplicate the same address
+
+
